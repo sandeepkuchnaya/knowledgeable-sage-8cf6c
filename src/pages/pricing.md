@@ -7,7 +7,11 @@ sections:
     align: center
     padding_top: large
     padding_bottom: small
-    video_embed_html: 'https://www.youtube.com/watch?v=VsY62msF5Ls'
+    video_embed_html: >-
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/VsY62msF5Ls" frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+      gyroscope; picture-in-picture" allowfullscreen></iframe>
   - type: grid_section
     grid_items:
       - title: Personal
