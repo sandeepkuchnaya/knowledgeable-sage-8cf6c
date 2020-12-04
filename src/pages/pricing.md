@@ -7,6 +7,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: small
+    video_embed_html: 'https://www.youtube.com/watch?v=VsY62msF5Ls'
   - type: grid_section
     grid_items:
       - title: Personal
